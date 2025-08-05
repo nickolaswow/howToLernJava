@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a78e0521-979b-4340-bbfe-f508fb241857" name="Changes" comment="Второе домашнее задание в IDE">
-      <change afterPath="$PROJECT_DIR$/src/ThirdHomework/Arrow/ArrorFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirdHomework/Arrow/ArrowGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirdHomework/KeyScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ThirdHomework/WithAsterisk/CarSortinWords.java" afterDir="false" />
+    <list default="true" id="a78e0521-979b-4340-bbfe-f508fb241857" name="Changes" comment="Третье домашнее задание в IDE">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/howToLernJava/SecondHomework/Resolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/howToLernJava/SecondHomework/Resolution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/howToLernJava/SecondHomework/ScreenTechnology.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/howToLernJava/SecondHomework/ScreenTechnology.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/howToLernJava/SecondHomework/VESA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/howToLernJava/SecondHomework/VESA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/howToLernJava/SecondHomework/tv.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/howToLernJava/SecondHomework/tv.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,9 +154,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.CarSortinWords" />
+        <item itemvalue="Application.KeyScanner" />
         <item itemvalue="Application.ArrorFinder" />
         <item itemvalue="Application.ArrowGenerator" />
-        <item itemvalue="Application.KeyScanner" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -234,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753973209524</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Третье домашнее задание в IDE">
+      <option name="closed" value="true" />
+      <created>1754405869973</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1754405869973</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -253,7 +253,8 @@
     <MESSAGE value="Первое домашнее задание" />
     <MESSAGE value="Рефакторинг ДЗ, Плюс задание со звездочкой" />
     <MESSAGE value="Второе домашнее задание в IDE" />
-    <option name="LAST_COMMIT_MESSAGE" value="Второе домашнее задание в IDE" />
+    <MESSAGE value="Третье домашнее задание в IDE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Третье домашнее задание в IDE" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
