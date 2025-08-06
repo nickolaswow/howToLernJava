@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a78e0521-979b-4340-bbfe-f508fb241857" name="Changes" comment="Обновление README.md">
-      <change afterPath="$PROJECT_DIR$/src/attestation01/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/attestation01/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/attestation01/Product.java" afterDir="false" />
+    <list default="true" id="a78e0521-979b-4340-bbfe-f508fb241857" name="Changes" comment="Создание классов для приложения по аттестации">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/attestation01/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/attestation01/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/attestation01/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/attestation01/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/attestation01/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/attestation01/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,26 +55,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;attestation&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/nikolayfadeev/Documents/IdeaProjects/howToLernJava&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/nikolayfadeev/Documents/IdeaProjects/howToLernJava/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.App.executor": "Debug",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "attestation",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/nikolayfadeev/Documents/IdeaProjects/howToLernJava",
+    "onboarding.tips.debug.path": "/Users/nikolayfadeev/Documents/IdeaProjects/howToLernJava/src/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="attestation01.App" />
+      <module name="howToLernJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attestation01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -101,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754407985574</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Создание классов для приложения по аттестации">
+      <option name="closed" value="true" />
+      <created>1754408251057</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754408251057</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,7 +151,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="Обновление README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновление README.md" />
+    <MESSAGE value="Создание классов для приложения по аттестации" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание классов для приложения по аттестации" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
